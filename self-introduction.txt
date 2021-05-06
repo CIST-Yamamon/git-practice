@@ -3,3 +3,5 @@ git practice "HY"
 first-branch practice
 
 conflict test
+
+second-branch practice
